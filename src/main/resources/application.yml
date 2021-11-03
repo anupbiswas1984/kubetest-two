@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: kubetest-two
+server:
+  port: 8082
